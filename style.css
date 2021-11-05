@@ -5,3 +5,6 @@
   --text-input-field: #f7f7f7;
   --hospital-green: #acd9b2;
 }
+body {
+  font-family: "Quicksand", sans-serif;
+}
