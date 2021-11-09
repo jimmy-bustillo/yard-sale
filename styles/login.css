@@ -61,18 +61,21 @@ body {
   font-size: var(--lg);
   cursor: pointer;
 }
-.forgot-password a {
-  display: block;
+.form a {
+  margin-top: 30px;
+  margin-bottom: 60px;
   text-decoration: none;
   text-align: center;
   font-size: var(--sm);
   color: var(--hospital-green);
 }
-.login-button {
+.secondary-button {
   width: 100%;
   height: 58px;
   border-radius: 10px;
-  margin-top: 150px;
+  font-size: var(--lg);
+  font-weight: 700;
+
   color: var(--hospital-green);
   background-color: var(--white);
   border: 1px solid var(--hospital-green);
